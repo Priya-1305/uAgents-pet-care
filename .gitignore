@@ -1,0 +1,4 @@
+venv
+.env
+.conda
+serviceAccountKey.json

@@ -1,0 +1,28 @@
+{
+    "user_agent": {
+        "identity_key": "agent1qtcerwsk2zf4h824kkwvyp5pwzltx6dc98esdss6ek3ct3af5awyucameq5"
+        
+    },
+    "UserAgent": {
+        "identity_key": "727f47ac1e2804542dbc551c45e5ddf8459a1c56d49f4749aad72bda1c750f2c",
+        "wallet_key": "gNplTHFA8qwlkgPAgX+YhODvmbGxi+xa4fagyyD29r4="
+    },
+    "ProductAgent": {
+        "identity_key": "429115ada8b2e85a41a8c0950194e776b1f31e7336ecb1b5ca1637b0bd8978c0",
+        "wallet_key": "rIDP+T0/GxPExDnmdQDVpLdP31s1Lx1brhG++TExhzQ="
+    },
+    "VeterinaryAgent": {
+        "identity_key": "adf784b8c85cf36f03bd8af89c2a242cb9586d5d58202f3dfbfe6f62c06812e4",
+        "wallet_key": "xmHSRr0U+fp787FwdyGqZd16X7oEp6iGaJL1jLzpTAE="
+    },
+    "AppAgent": {
+        "identity_key": "2ee14f607fccda98ce2f23b0225f8e77d84a0ecc928d883ac7f62b41102e373a",
+        "wallet_key": "MaZndzE4CA4xfEapoXVv42Cku2PyoT9XyNL79c+6tRY="
+    },
+    "AdminAgent": {
+        "identity_key": "b3a1516af10b3f401084460dd6da890ef8022a428f470d540777b24503c08a80",
+        "wallet_key": "uUS5fK+46YtpYeEzPZxjuxoSj6Y8iZcxJ698ddlkF9o="
+    }
+
+
+}
